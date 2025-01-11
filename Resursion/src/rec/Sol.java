@@ -1,21 +1,13 @@
 package rec;
 //Print 1 To N Without Loop
 public class Sol {
-<<<<<<< HEAD
 	/*
-=======
 	
->>>>>>> 7cd68f556a8e739f93232d584272fd4aecbd8605
 	static int count = 0;
 	static int i = 1;
 	public static void print(int n) {
 		
-		
-<<<<<<< HEAD
 		if(count == n) {
-=======
-		if(count == 5) {
->>>>>>> 7cd68f556a8e739f93232d584272fd4aecbd8605
 			return;
 		} 
 			System.out.println(i);
@@ -66,6 +58,4 @@ public class Sol {
     public static void main(String[] args) {
         print(5); 
     }
-=======
->>>>>>> 7cd68f556a8e739f93232d584272fd4aecbd8605
 }
